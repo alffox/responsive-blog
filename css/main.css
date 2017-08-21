@@ -24,11 +24,6 @@ h1 {
     width: 100%;
 }
 
-.header {
-    width: 100%;
-    display: inline-block;
-}
-
 img {
     width:100%;
     max-width: 100%;
@@ -36,10 +31,7 @@ img {
 
 .logo {
     width: 3%;
-    float: left;
 }
-
-@import url(http://weloveiconfonts.com/api/?family=zocial);
 
 /* zocial */
 [class*="zocial-"]:before {
